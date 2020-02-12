@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b95429f-8042-4f0f-b5a0-0c3fa4ca8822" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDLABWI6K9Ei1E9eNfJyqxbdK6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pdars\IdeaProjects\WebTest1\src\test\java\BrowsersDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebExercise2.Asda">
+    <configuration name="WebExercise2.Asda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Org" />
+      <option name="MAIN_CLASS_NAME" value="Org.WebExercise2" />
+      <option name="METHOD_NAME" value="Asda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise2.MockPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Org" />
+      <option name="MAIN_CLASS_NAME" value="Org.WebExercise2" />
+      <option name="METHOD_NAME" value="MockPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise2.nopcommerce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Org" />
+      <option name="MAIN_CLASS_NAME" value="Org.WebExercise2" />
+      <option name="METHOD_NAME" value="nopcommerce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise2.ocado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Org" />
+      <option name="MAIN_CLASS_NAME" value="Org.WebExercise2" />
+      <option name="METHOD_NAME" value="ocado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise2.sky" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Org" />
+      <option name="MAIN_CLASS_NAME" value="Org.WebExercise2" />
+      <option name="METHOD_NAME" value="sky" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebExercise2.nopcommerce" />
+        <item itemvalue="JUnit.WebExercise2.Asda" />
+        <item itemvalue="JUnit.WebExercise2.sky" />
+        <item itemvalue="JUnit.WebExercise2.ocado" />
+        <item itemvalue="JUnit.WebExercise2.MockPlus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b95429f-8042-4f0f-b5a0-0c3fa4ca8822" name="Default Changelist" comment="" />
+      <created>1580575572070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580575572070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="93" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580652381709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="93" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1580652381709" />
+    <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1581472395280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581472395280" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581472330623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581472330623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581472330623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581472330623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581472330623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581472330623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581472330623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581472330623" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581343275315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581343275315" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1581343275315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581343275315" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1581343275315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581343275315" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1581343275315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581343275315" />
+    <state x="259" y="26" key="Maven.ArtifactSearchDialog" timestamp="1581255315917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="259" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581255315917" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1581372340847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581372340847" />
+    <state x="65" y="67" key="new project wizard" timestamp="1580775170114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="67" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580775170114" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581382191538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581382191538" />
+  </component>
+</project>
